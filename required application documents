@@ -1,0 +1,5 @@
+Install Python 3.10.7
+Install IronPython3.4.0
+Using below commands for install PyPDF2
+   ipy -X:Frame -m ensurepip
+   ipy -X:Frame -m  pip install PyPDF2
